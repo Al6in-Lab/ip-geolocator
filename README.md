@@ -83,6 +83,3 @@ The script sends a request to the free [ipinfo.io](https://ipinfo.io) API and pr
 - Private and reserved addresses (like `192.168.x.x`) have no public location and will return a message saying so.
 - Please use this tool responsibly.
 
-## License
-
-MIT. See `LICENSE` for details (add one via GitHub's "Add file → Create new file → LICENSE" template if you haven't already).
