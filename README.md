@@ -27,7 +27,7 @@ A small, clean command-line tool that looks up the approximate location and netw
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/ip-geolocator.git
+git clone https://github.com/Al6in-Lab/ip-geolocator.git
 cd ip-geolocator
 ```
 
